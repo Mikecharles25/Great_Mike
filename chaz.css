@@ -1,4 +1,11 @@
-h3 {
-    background-color: aquamarine;
-    text-shadow: chartreuse;
-}
+    h3 {
+        background-color: aquamarine;
+        text-shadow: chartreuse;
+    }
+    
+    #nav-bar {
+        background-color: aquamarine;
+        text-align: center;
+    }
+    
+    ul {}
